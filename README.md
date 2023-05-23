@@ -7,7 +7,7 @@ This project is a movie recommendation system that suggests personalized movie r
 
 **#Installation**
 
-1.Clone the repository: git clone https://github.com/your-username/movie-recommendation.git </br>
+1.Clone the repository: git clone https://github.com/vinit5112/Movie-Recommender-System.git </br>
 2.Install the required dependencies: Python Libraries(Numpy,Pandas,Pickle..etc) </br>
 3.Download the movie dataset: tmdb_5000_movies.csv </br>
 4.Run the setup script: python app.py </br>
