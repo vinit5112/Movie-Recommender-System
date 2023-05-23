@@ -8,17 +8,17 @@ This project is a movie recommendation system that suggests personalized movie r
 **#Installation**
 
 1.Clone the repository: git clone https://github.com/your-username/movie-recommendation.git </br>
-2.Install the required dependencies: Python Libraries(Numpy,Pandas,Pickle..etc) 
-3.Download the movie dataset: tmdb_5000_movies.csv 
-4.Run the setup script: python app.py 
+2.Install the required dependencies: Python Libraries(Numpy,Pandas,Pickle..etc) </br>
+3.Download the movie dataset: tmdb_5000_movies.csv </br>
+4.Run the setup script: python app.py </br>
 
 **#Usage**
 
-Ensure that the dataset is correctly imported and processed.
-Launch the movie recommendation system: python app.py
-Select your favorite movie.
-Explore movie recommendations based on your preferences.
-Provide feedback on the recommended movies to improve future suggestions.
+Ensure that the dataset is correctly imported and processed.</br>
+Launch the movie recommendation system: python app.py</br>
+Select your favorite movie.</br>
+Explore movie recommendations based on your preferences.</br>
+Provide feedback on the recommended movies to improve future suggestions.</br>
 
 **#Acknowledgments**
 
